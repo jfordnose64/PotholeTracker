@@ -1,0 +1,66 @@
+.map {
+  justify-content: center;
+  display: flex;
+}
+
+.home-title {
+  text-align: center;
+  padding: 1rem;
+  margin: 0rem;
+}
+
+.footer-container {
+  text-align: center;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.footer-header {
+  font-size: 2rem;
+}
+
+.footer-icon-container {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-icon {
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.map-marker {
+  color: red;
+}
+
+.map-mapped {
+  /* text-align: center; */
+}
+
+.map-card {
+  display: flex;
+  justify-content: center;
+  margin: 0rem;
+}
+
+.mapped {
+  margin: 0rem;
+}
+
+div.map-card.card {
+  display: grid;
+}
+
+.lat-map {
+  padding-top: 1rem;
+}

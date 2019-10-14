@@ -1,0 +1,29 @@
+/* InputField CSS */
+.form {
+  text-align: center;
+}
+
+.form-section {
+  padding: 1rem;
+}
+
+@media screen and (min-width: 800px) {
+  .form-section {
+    padding: 0rem 20rem;
+  }
+
+  .card {
+    margin: 0rem 27.5rem;
+  }
+}
+
+/* MoreAddressInfo CSS */
+
+.card {
+  text-align: center;
+  padding: 1rem;
+}
+
+.card-buttons {
+  padding: 1rem;
+}
